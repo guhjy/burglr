@@ -1,0 +1,15 @@
+Package: burglr
+Title: Stealing R-Code from the Web
+Version: 0.1
+Author: person("Andre", "Bleier", email = "andre.bleier@statworx.com", role = c("aut", "cre"),
+Description: This package contains a function which can source R-Code from webbapges.
+             It is an addition to devtools::install_github() which is only capable of installing
+             R packages.
+Maintainer: Andre Bleier <andre.bleier@statworx.com>
+Depends: R (>= 3.4.3)
+Imports: RCurl
+Namespace: burglr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
