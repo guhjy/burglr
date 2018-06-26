@@ -12,5 +12,5 @@ Feel free to [contact](mailto:andre.bleier@statworx.com) me with input, ideas or
 <pre><code># install burglr
 devtools::install_github("andrebleier/burglr")
 # steal code
-burglr::burglr("https://www.github.com/andrebleier/Xy/blob/master/Xy.R")
+burglr::burglr("https://github.com/andrebleier/dive/blob/master/dive.R")
 </code></pre>
